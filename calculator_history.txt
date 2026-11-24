@@ -1,0 +1,13 @@
+2026-11-24 00:30:24 | Calculator | 36 / 6 | 6
+2026-11-24 00:30:28 | Scientific (DEG) | cos(0) | 1
+2026-11-24 00:30:35 | Scientific (DEG) | exp(0) | 1
+2026-11-24 00:30:41 | Scientific (DEG) | exp(6) | 403.4287934927
+2026-11-24 00:31:08 | Converter (Temperature) | 100 °C -> °F | 212 °F
+2026-11-24 00:31:20 | Converter (Temperature) | 105 °C -> °F | 221 °F
+2026-11-24 00:32:20 | Expression (DEG) | 5+9-6 | 8
+2026-11-24 00:32:47 | Expression (DEG) | 7 | 7
+2026-11-24 00:32:55 | Expression (DEG) | 7+3 | 10
+2026-11-24 00:33:02 | Expression (DEG) | 10/4 | 2.5
+2026-11-24 00:58:22 | Expression (DEG) | 7*10 | 70
+2026-11-24 09:55:49 | Expression (DEG) | sin(30) + 2^3 * (4 - 1) | 24.5
+2026-11-24 09:56:41 | Converter (Length) | 100 m -> km | 0.1 km
